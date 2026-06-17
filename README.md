@@ -14,5 +14,5 @@ Bienvenue sur mon profil GitHub !
 
 ## 🔗 Me retrouver
 
-- 🌍 Site web : [futiax.ovh](http://futiax.ovh)
+- 🌍 Site web : [futiax.ovh](https://futiax.ovh)
 - 🧪 ORCID : [0009-0000-2155-5425](https://orcid.org/0009-0000-2155-5425)
