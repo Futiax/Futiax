@@ -5,7 +5,7 @@ Bienvenue sur mon profil GitHub !
 
 ## 📌 Repos épinglés
 
-- [**McMovieMaker**](https://github.com/Futiax/McMovieMaker) — Créateur de films pour maps Minecraft *(Python)*
+- [**McMovieMaker**](https://github.com/Futiax/McMovieMaker) — Outil pour créer des films pour maps Minecraft *(Python)*
 - [**mazegenerator**](https://github.com/Futiax/mazegenerator) — Générateur de labyrinthes *(JavaScript)*
 - [**bscalculator**](https://github.com/Futiax/bscalculator) — Calculatrice *(JavaScript)*
 - [**pendusolver**](https://github.com/Futiax/pendusolver) — Solveur de pendu *(JavaScript)*
